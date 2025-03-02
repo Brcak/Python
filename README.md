@@ -30,7 +30,7 @@ This project consists of two Python scripts: `link_grabber.py` and `YT_downloade
 
 1. Clone this repository or download the scripts.
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Brcak/YT_utility.git
    ```
 
 2. Install the required packages:

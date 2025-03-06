@@ -71,7 +71,5 @@ Created by BrCaKBA.
 3. **Focuses on functionality and setup**.
 4. **Easy to read and follow**.
 
-Let me know if you need further tweaks!
-
 
 
